@@ -39,6 +39,7 @@ a#start-button {
   font-weight: bold;
   cursor: pointer;
   display: inline-block;
+  text-decoration: none;
   transition: background-color 200ms ease-in-out;
 }
 
