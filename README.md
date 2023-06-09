@@ -1,5 +1,7 @@
 > Esercizio password generator
 
+![preview](./.github/preview.png)
+
 ## (insicurissimo) password generator
 
 - Descrizione
